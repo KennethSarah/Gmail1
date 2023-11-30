@@ -657,7 +657,7 @@ font-size: 15px;
 .signupFrm {
   display: flex;
   
-  height: 100vh;
+  height: 500px;
   z-index: 7;
   display: none;
 }
@@ -666,20 +666,20 @@ font-size: 15px;
 .form {
   background-color: white;
   width: 400px;
-  height: 800px;
+  height: 500px;
   border-radius: 20px;
   padding: 0px 0px;
   box-shadow: 0 10px 25px rgba(92, 99, 105, .2);
 }
 
 .title {
-  font-size: 50px;
+  font-size: 20px;
   margin-bottom: 50px;
 }
 
 .inputContainer {
   position: relative;
- font-size: 23px;
+ font-size: 20px;
   display: flex;
   margin-left: 0px;
   margin-top: 27px;
@@ -689,7 +689,7 @@ font-size: 15px;
 
 .formEl {
   width: 400px;
-  height: 800px;
+  height: 500px;
   border-radius: 20px;
   background-color: black;
   
@@ -801,14 +801,14 @@ h1 {
   margin-left: 2px;
   background-color: rgba(246, 248, 252, 1);
   width: 400px;
-  height: 800px;
+  height: 500px;
   border-radius: 20px;
 }
 
 .container-1 {
   display: flex;
-  padding: 29px;
-  font-size: 30px;
+  padding: 10px;
+  font-size: 20px;
   width: 100%;
   background-color: rgba(234, 241, 251, 1);
   height: 10%;
